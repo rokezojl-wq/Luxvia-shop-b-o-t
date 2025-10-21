@@ -1,0 +1,14 @@
+{
+  "name": "parduotuve-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^17.2.2",
+    "fs": "^0.0.1-security"
+  }
+}
